@@ -66,10 +66,4 @@ REST APIs, SQL/NoSQL, Cloud Systems, Git
 - Email: k.mehravar73@gmail.com , k.mehravar@studenti.unipi.it
 
 ---
-## 📊 GitHub Stats
-
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamran-mehravar&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamran-mehravar&layout=compact)
-
 ⭐ Always open to collaboration and research opportunities.
