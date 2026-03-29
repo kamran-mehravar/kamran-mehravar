@@ -24,7 +24,12 @@ In parallel, I am actively involved in **IoT and Smart Agriculture projects**, w
 This work focuses on improving object detection in thermal imagery by integrating environmental data (e.g., temperature, humidity) into transformer-based architectures. The goal is to enhance robustness under domain shifts such as seasonal and environmental changes.
 
 ---
+## 🧩 Open Source Contribution
 
+- Contributor to **CDlib (Community Discovery Library)**  
+  Worked on the implementation of spectral clustering algorithms for network analysis.
+  🔗https://cdlib.readthedocs.io/en/latest/reference/generated/cdlib.algorithms.spectral.html
+---
 ## 🧠 Research Interests
 
 - Computer Vision & Vision Transformers (DETR, Deformable DETR)
