@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kamran Mehravar
+#  Hi, I'm Kamran Mehravar
 
 🎓 M.Sc. Computer Engineering – University of Pisa  
 💻 Software Engineer | AI & Computer Vision  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a Computer Engineering graduate with a strong background in software engineering and applied AI research. My work focuses on building intelligent, scalable systems and deploying them in real-world environments.
 
@@ -16,7 +16,7 @@ In parallel, I am actively involved in **IoT and Smart Agriculture projects**, w
 
 ---
 
-## 📄 Thesis
+## Thesis
 
 **Multimodal Object Detection on Thermal Images Using Transformer Architecture and Weather Information**  
 🔗 https://etd.adm.unipi.it/t/etd-02062026-161851/
@@ -24,13 +24,13 @@ In parallel, I am actively involved in **IoT and Smart Agriculture projects**, w
 This work focuses on improving object detection in thermal imagery by integrating environmental data (e.g., temperature, humidity) into transformer-based architectures. The goal is to enhance robustness under domain shifts such as seasonal and environmental changes.
 
 ---
-## 🧩 Open Source Contribution
+## Open Source Contribution
 
 - Contributor to **CDlib (Community Discovery Library)**  
   Worked on the implementation of spectral clustering algorithms for network analysis.
   🔗https://cdlib.readthedocs.io/en/latest/reference/generated/cdlib.algorithms.spectral.html
 ---
-## 🧠 Research Interests
+## Research Interests
 
 - Computer Vision & Vision Transformers (DETR, Deformable DETR)
 - Multimodal Learning (Vision + Environmental Data)
@@ -40,7 +40,7 @@ This work focuses on improving object detection in thermal imagery by integratin
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 Python, JavaScript, Java, C++
@@ -56,7 +56,7 @@ REST APIs, SQL/NoSQL, Cloud Systems, Git
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
 - Publishing research in IEEE conferences  
 - Developing robust AI systems for real-world environments  
@@ -65,10 +65,10 @@ REST APIs, SQL/NoSQL, Cloud Systems, Git
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn:https://www.linkedin.com/in/kamran-mehravar-282b75113/
 - Email: k.mehravar73@gmail.com , k.mehravar@studenti.unipi.it
 
 ---
-⭐ Always open to collaboration and research opportunities.
+ Always open to collaboration and research opportunities.
