@@ -13,9 +13,6 @@
   <a href="https://github.com/kamran-mehravar?tab=followers">
     <img src="https://img.shields.io/github/followers/kamran-mehravar?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
   </a>
-  <a href="https://github.com/kamran-mehravar">
-    <img src="https://img.shields.io/github/stars/kamran-mehravar?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=orange" alt="stars" />
-  </a>
 </p>
 
 ---
@@ -74,56 +71,47 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ### ⚙️ Frameworks, Libraries & Graphics
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,threejs,pytorch,opencv,docker,linux,git,github,vscode,arduino" />
-  <img src="https://img.shields.io/badge/WebGL-Graphics-9900FF?style=for-the-badge&logo=webgl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jimp-Image%20Processing-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Canvas-Graphics%20Tool-FF6B6B?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=webgl" height="48" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="48" />
 </p>
 
 ### 🔌 APIs & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOAP%20API-6A1B9A?style=for-the-badge&logo=soapui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Caffeine-Java%20Caching-37474F?style=for-the-badge" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rest" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=soap" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring" height="48" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Trello-Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Development-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,trello" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" height="48" />
 </p>
 
 ### 📌 Areas I Work With
 <p align="left">
-  <img src="https://img.shields.io/badge/Computer%20Vision-AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-Deep%20Learning-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IoT-Smart%20Systems-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%2FNoSQL-Data%20Engineering-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Systems-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ai" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=computer-vision" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=iot" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=embedded" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloud" height="48" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kamran-mehravar&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamran-mehravar&theme=radical&layout=compact&exclude_lang=java+r" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamran-mehravar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamran-mehravar&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 
 ---
