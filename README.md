@@ -9,7 +9,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=320&height=60&lines=%3E+About+Me_" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=260&height=46&lines=%3E+About+Me_" alt="About Me" />
 </p>
 
 I am a Computer Engineering graduate with a strong background in **software engineering**, **applied AI**, and **intelligent system design**.  
@@ -22,7 +22,7 @@ In parallel, I am actively involved in **IoT and Smart Agriculture projects**, w
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=240&height=60&lines=%3E+Thesis_" alt="Thesis" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=200&height=46&lines=%3E+Thesis_" alt="Thesis" />
 </p>
 
 ### **Multimodal Object Detection on Thermal Images Using Transformer Architecture and Weather Information**
@@ -35,7 +35,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=540&height=60&lines=%3E+Open+Source+Contribution_" alt="Open Source Contribution" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=430&height=46&lines=%3E+Open+Source+Contribution_" alt="Open Source Contribution" />
 </p>
 
 - Contributor to **CDlib (Community Discovery Library)**
@@ -46,7 +46,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=430&height=60&lines=%3E+Research+Interests_" alt="Research Interests" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=350&height=46&lines=%3E+Research+Interests_" alt="Research Interests" />
 </p>
 
 - Computer Vision & Vision Transformers
@@ -61,7 +61,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=290&height=60&lines=%3E+Tech+Stack_" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=230&height=46&lines=%3E+Tech+Stack_" alt="Tech Stack" />
 </p>
 
 ### Languages
@@ -116,7 +116,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=360&height=60&lines=%3E+Current+Focus_" alt="Current Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=300&height=46&lines=%3E+Current+Focus_" alt="Current Focus" />
 </p>
 
 - Publishing research in IEEE conferences
@@ -127,7 +127,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=290&height=60&lines=%3E+Contact+Me_" alt="Contact Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=240&height=46&lines=%3E+Contact+Me_" alt="Contact Me" />
 </p>
 
 <p align="left">
@@ -142,9 +142,8 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=320&height=60&lines=%3E+Collaboration_" alt="Collaboration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=270&height=46&lines=%3E+Collaboration_" alt="Collaboration" />
 </p>
-
 ✨ Always open to collaboration, research opportunities, and exciting software, AI, and computer vision projects.
 
 ---
