@@ -9,7 +9,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F72585&vCenter=true&repeat=true&width=260&lines=%F0%9F%9A%80+About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=F72585&vCenter=true&repeat=true&width=220&lines=About+Me" alt="About Me" />
 </p>
 
 I am a Computer Engineering graduate with a strong background in **software engineering**, **applied AI**, and **intelligent system design**.  
