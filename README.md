@@ -54,9 +54,10 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ##  Tech Stack
 
-###  Languages
+### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,dart,html,css,matlab" />
+  <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" />
 </p>
 
 ###  Frameworks, Libraries & Graphics
