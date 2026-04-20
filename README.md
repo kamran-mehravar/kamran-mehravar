@@ -70,8 +70,9 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ### ⚙️ Frameworks, Libraries & Graphics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,threejs,pytorch,opencv,docker,linux,arduino,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=spring,threejs,pytorch,opencv,arduino" />
 </p>
+
 
 ### 🗄️ Databases
 <p align="left">
@@ -86,7 +87,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,trello" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,trello" />
 </p>
 
 ### 📌 Areas I Work With
