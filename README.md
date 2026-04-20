@@ -70,9 +70,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ### ⚙️ Frameworks, Libraries & Graphics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,threejs,pytorch,opencv,docker,linux,git,github,vscode,arduino" />
-  <img src="https://cdn.simpleicons.org/webgl/9900FF" height="48" />
-  <img src="https://cdn.simpleicons.org/jimp/2E8B57" height="48" />
+  <img src="https://skillicons.dev/icons?i=spring,threejs,pytorch,opencv,docker,linux,arduino,git,github,vscode" />
 </p>
 
 ### 🗄️ Databases
@@ -83,21 +81,17 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ### 🔌 APIs & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="48" />
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48" />
+  <img src="https://skillicons.dev/icons?i=spring,postman" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,trello" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" />
 </p>
 
 ### 📌 Areas I Work With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,opencv,pytorch,threejs" />
-  <img src="https://cdn.simpleicons.org/webgl/9900FF" height="48" />
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,threejs,arduino" />
 </p>
 
 ---
