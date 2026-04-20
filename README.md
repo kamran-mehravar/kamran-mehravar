@@ -96,14 +96,6 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-##  GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamran-mehravar&theme=radical&layout=compact" alt="Top Languages" />
-</p>
-
----
-
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FF6B6B&vCenter=true&repeat=true&width=280&lines=%3E+Current+Focus_" alt="Current Focus" />
 
 - Publishing research in IEEE conferences
@@ -129,3 +121,12 @@ The goal is to enhance model robustness under **environmental and seasonal domai
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FF4ECD&vCenter=true&repeat=true&width=260&lines=%3E+Collaboration_" alt="Collaboration" />
 
 ✨ Always open to collaboration, research opportunities, and exciting software, AI, and computer vision projects.
+
+---
+##  GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamran-mehravar&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+
+
