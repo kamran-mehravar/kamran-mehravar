@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kamran Mehravar </h1>
+<h1 align="center">Hi there, I'm Kamran Mehravar</h1>
 
 <h3 align="center">M.Sc. Computer Engineering | Software Engineer | AI & Computer Vision Researcher</h3>
 
@@ -8,8 +8,9 @@
 
 ---
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=F72585&vCenter=true&repeat=true&width=260&lines=%3E+About+Me_" alt="About Me" />
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=320&height=60&lines=%3E+About+Me_" alt="About Me" />
+</p>
 
 I am a Computer Engineering graduate with a strong background in **software engineering**, **applied AI**, and **intelligent system design**.  
 My work focuses on building scalable, real-world systems that combine **AI**, **computer vision**, **IoT**, and **embedded technologies**.
@@ -20,8 +21,9 @@ In parallel, I am actively involved in **IoT and Smart Agriculture projects**, w
 
 ---
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F5FF&vCenter=true&repeat=true&width=220&lines=%3E+Thesis_" alt="Thesis" />
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=240&height=60&lines=%3E+Thesis_" alt="Thesis" />
+</p>
 
 ### **Multimodal Object Detection on Thermal Images Using Transformer Architecture and Weather Information**
 
@@ -32,8 +34,9 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=39FF14&vCenter=true&repeat=true&width=440&lines=%3E+Open+Source+Contribution_" alt="Open Source Contribution" />
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=540&height=60&lines=%3E+Open+Source+Contribution_" alt="Open Source Contribution" />
+</p>
 
 - Contributor to **CDlib (Community Discovery Library)**
 - Worked on the implementation of **spectral clustering algorithms** for network analysis
@@ -42,8 +45,9 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FFD700&vCenter=true&repeat=true&width=340&lines=%3E+Research+Interests_" alt="Research Interests" />
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=430&height=60&lines=%3E+Research+Interests_" alt="Research Interests" />
+</p>
 
 - Computer Vision & Vision Transformers
 - DETR & Deformable DETR
@@ -56,47 +60,64 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=9D4EDD&vCenter=true&repeat=true&width=240&lines=%3E+Tech+Stack_" alt="Tech Stack" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=290&height=60&lines=%3E+Tech+Stack_" alt="Tech Stack" />
+</p>
 
-
-###  Languages
+### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js,cpp,dart,html,css,matlab" />
   <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" />
 </p>
 
-###  Frameworks, Libraries & Graphics
+### Frameworks, Libraries & Graphics
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,threejs,pytorch,opencv,arduino" />
   <img src="https://img.shields.io/badge/WebGL-Graphics-9900FF?style=for-the-badge" />
 </p>
 
-###  Databases
+### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-###  APIs & Backend
+### APIs & Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://img.shields.io/badge/REST%20API-Backend-FF6C37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Caffeine-Java%20Cache-37474F?style=for-the-badge" />
 </p>
 
-###  Tools & Platforms
+### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,trello" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,eclipse" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 
-###  Areas I Work With
+### Networking & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0F8B8D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mininet-2D2D2D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Floodlight-5C4EE5?style=for-the-badge" />
+</p>
+
+### Areas I Work With
 <p align="left">
   <img src="https://skillicons.dev/icons?i=opencv,pytorch,threejs,arduino" />
 </p>
 
 ---
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FF6B6B&vCenter=true&repeat=true&width=280&lines=%3E+Current+Focus_" alt="Current Focus" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=360&height=60&lines=%3E+Current+Focus_" alt="Current Focus" />
+</p>
 
 - Publishing research in IEEE conferences
 - Building robust AI systems for real-world environments
@@ -105,7 +126,9 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C2FF&vCenter=true&repeat=true&width=220&lines=%3E+Contact+Me_" alt="Contact Me" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=290&height=60&lines=%3E+Contact+Me_" alt="Contact Me" />
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kamran-mehravar-282b75113/">
@@ -118,15 +141,16 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FF4ECD&vCenter=true&repeat=true&width=260&lines=%3E+Collaboration_" alt="Collaboration" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=F7F7F7&background=2C001E&vCenter=true&repeat=true&width=320&height=60&lines=%3E+Collaboration_" alt="Collaboration" />
+</p>
 
 ✨ Always open to collaboration, research opportunities, and exciting software, AI, and computer vision projects.
 
 ---
-##  GitHub Activity
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamran-mehravar&theme=radical&layout=compact" alt="Top Languages" />
 </p>
-
-
