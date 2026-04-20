@@ -8,9 +8,8 @@
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=F72585&vCenter=true&repeat=true&width=220&lines=About+Me" alt="About Me" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=F72585&vCenter=true&repeat=true&width=260&lines=%3E+About+Me_" alt="About Me" />
+
 
 I am a Computer Engineering graduate with a strong background in **software engineering**, **applied AI**, and **intelligent system design**.  
 My work focuses on building scalable, real-world systems that combine **AI**, **computer vision**, **IoT**, and **embedded technologies**.
@@ -21,7 +20,8 @@ In parallel, I am actively involved in **IoT and Smart Agriculture projects**, w
 
 ---
 
-##  Thesis
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00F5FF&vCenter=true&repeat=true&width=220&lines=%3E+Thesis_" alt="Thesis" />
+
 
 ### **Multimodal Object Detection on Thermal Images Using Transformer Architecture and Weather Information**
 
@@ -32,7 +32,8 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-##  Open Source Contribution
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=39FF14&vCenter=true&repeat=true&width=440&lines=%3E+Open+Source+Contribution_" alt="Open Source Contribution" />
+
 
 - Contributor to **CDlib (Community Discovery Library)**
 - Worked on the implementation of **spectral clustering algorithms** for network analysis
@@ -41,7 +42,8 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-##  Research Interests
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FFD700&vCenter=true&repeat=true&width=340&lines=%3E+Research+Interests_" alt="Research Interests" />
+
 
 - Computer Vision & Vision Transformers
 - DETR & Deformable DETR
@@ -54,7 +56,8 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-##  Tech Stack
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=9D4EDD&vCenter=true&repeat=true&width=240&lines=%3E+Tech+Stack_" alt="Tech Stack" />
+
 
 ###  Languages
 <p align="left">
@@ -101,7 +104,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-##  Current Focus
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FF6B6B&vCenter=true&repeat=true&width=280&lines=%3E+Current+Focus_" alt="Current Focus" />
 
 - Publishing research in IEEE conferences
 - Building robust AI systems for real-world environments
@@ -110,7 +113,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-##  Contact Me
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00C2FF&vCenter=true&repeat=true&width=220&lines=%3E+Contact+Me_" alt="Contact Me" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kamran-mehravar-282b75113/">
@@ -123,6 +126,6 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-##  Collaboration
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=FF4ECD&vCenter=true&repeat=true&width=260&lines=%3E+Collaboration_" alt="Collaboration" />
 
 ✨ Always open to collaboration, research opportunities, and exciting software, AI, and computer vision projects.
