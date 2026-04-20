@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kamran Mehravar 👋</h1>
+<h1 align="center">Hi there, I'm Kamran Mehravar </h1>
 
 <h3 align="center">M.Sc. Computer Engineering | Software Engineer | AI & Computer Vision Researcher</h3>
 
@@ -6,18 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Computer+Vision+Researcher;Multimodal+AI+%7C+IoT+%7C+Smart+Systems;Transformers+%7C+Thermal+Imaging+%7C+Embedded+Systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/kamran-mehravar">
-    <img src="https://komarev.com/ghpvc/?username=kamran-mehravar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  </a>
-  <a href="https://github.com/kamran-mehravar?tab=followers">
-    <img src="https://img.shields.io/github/followers/kamran-mehravar?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
-  </a>
-</p>
-
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a Computer Engineering graduate with a strong background in **software engineering**, **applied AI**, and **intelligent system design**.  
 My work focuses on building scalable, real-world systems that combine **AI**, **computer vision**, **IoT**, and **embedded technologies**.
@@ -28,7 +19,7 @@ In parallel, I am actively involved in **IoT and Smart Agriculture projects**, w
 
 ---
 
-## 🎓 Thesis
+##  Thesis
 
 ### **Multimodal Object Detection on Thermal Images Using Transformer Architecture and Weather Information**
 
@@ -39,7 +30,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-## 🌍 Open Source Contribution
+##  Open Source Contribution
 
 - Contributor to **CDlib (Community Discovery Library)**
 - Worked on the implementation of **spectral clustering algorithms** for network analysis
@@ -48,7 +39,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 - Computer Vision & Vision Transformers
 - DETR & Deformable DETR
@@ -61,45 +52,45 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js,cpp,dart,html,css" />
 </p>
 
-### ⚙️ Frameworks, Libraries & Graphics
+###  Frameworks, Libraries & Graphics
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,threejs,pytorch,opencv,arduino" />
   <img src="https://img.shields.io/badge/WebGL-Graphics-9900FF?style=for-the-badge" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-### 🔌 APIs & Backend
+###  APIs & Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://img.shields.io/badge/REST%20API-Backend-FF6C37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Caffeine-Java%20Cache-37474F?style=for-the-badge" />
 </p>
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,trello" />
 </p>
 
-### 📌 Areas I Work With
+###  Areas I Work With
 <p align="left">
   <img src="https://skillicons.dev/icons?i=opencv,pytorch,threejs,arduino" />
 </p>
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamran-mehravar&theme=radical&layout=compact" alt="Top Languages" />
@@ -107,7 +98,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Publishing research in IEEE conferences
 - Building robust AI systems for real-world environments
@@ -116,7 +107,7 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kamran-mehravar-282b75113/">
@@ -129,6 +120,6 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ---
 
-## 🤝 Collaboration
+##  Collaboration
 
 ✨ Always open to collaboration, research opportunities, and exciting software, AI, and computer vision projects.
