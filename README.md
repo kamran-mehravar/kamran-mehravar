@@ -71,18 +71,20 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ### ⚙️ Frameworks, Libraries & Graphics
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,threejs,pytorch,opencv,arduino" />
+  <img src="https://img.shields.io/badge/WebGL-Graphics-9900FF?style=for-the-badge" />
 </p>
-
 
 ### 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="48" />
+  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ### 🔌 APIs & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,postman" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://img.shields.io/badge/REST%20API-Backend-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Caffeine-Java%20Cache-37474F?style=for-the-badge" />
 </p>
 
 ### 🧰 Tools & Platforms
