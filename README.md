@@ -6,6 +6,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Computer+Vision+Researcher;Multimodal+AI+%7C+IoT+%7C+Smart+Systems;Transformers+%7C+Thermal+Imaging+%7C+Embedded+Systems" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/kamran-mehravar">
+    <img src="https://komarev.com/ghpvc/?username=kamran-mehravar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  </a>
+  <a href="https://github.com/kamran-mehravar?tab=followers">
+    <img src="https://img.shields.io/github/followers/kamran-mehravar?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
+  </a>
+  <a href="https://github.com/kamran-mehravar">
+    <img src="https://img.shields.io/github/stars/kamran-mehravar?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=orange" alt="stars" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -59,22 +71,39 @@ The goal is to enhance model robustness under **environmental and seasonal domai
   <img src="https://skillicons.dev/icons?i=python,java,js,cpp,dart,html,css" />
 </p>
 
-### ⚙️ Frameworks, Libraries, Tools
+### ⚙️ Frameworks, Libraries & Graphics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,docker,linux,git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=spring,threejs,pytorch,opencv,docker,linux,git,github,vscode,arduino" />
+  <img src="https://img.shields.io/badge/WebGL-Graphics-9900FF?style=for-the-badge&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jimp-Image%20Processing-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Canvas-Graphics%20Tool-FF6B6B?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-### 🗄️ Databases & APIs
+### 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOAP%20API-6A1B9A?style=for-the-badge&logo=soapui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-### 🔧 Other Technologies
+### 🔌 APIs & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformer%20Models-AI-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAP%20API-6A1B9A?style=for-the-badge&logo=soapui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Caffeine-Java%20Caching-37474F?style=for-the-badge" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Trello-Project%20Management-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Development-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 📌 Areas I Work With
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer%20Vision-AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-Deep%20Learning-critical?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IoT-Smart%20Systems-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embedded%20Systems-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%2FNoSQL-Data%20Engineering-informational?style=for-the-badge" />
@@ -86,11 +115,15 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/b6ee555ff3735a123d0c1006cb878192a3b9c771ce8a70bdc62d09c4a2eb6159/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d4c75635433267468656d653d7261646963616c" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=kamran-mehravar&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/cbd6eb569d60a301883a2096214c075f45c01d24df38d52d84e68c4b60b4eedf/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4c75635433267468656d653d7261646963616c266c61796f75743d636f6d70616374266578636c7564655f6c616e673d6a6176612b72" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamran-mehravar&theme=radical&layout=compact&exclude_lang=java+r" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kamran-mehravar&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -119,4 +152,4 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 
 ## 🤝 Collaboration
 
-✨ Always open to collaboration, research opportunities, and exciting software/AI projects.
+✨ Always open to collaboration, research opportunities, and exciting software, AI, and computer vision projects.
