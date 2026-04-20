@@ -71,44 +71,38 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ### ⚙️ Frameworks, Libraries & Graphics
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,threejs,pytorch,opencv,docker,linux,git,github,vscode,arduino" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=webgl" height="48" />
+  <img src="https://cdn.simpleicons.org/webgl/9900FF" height="48" />
+  <img src="https://cdn.simpleicons.org/jimp/2E8B57" height="48" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" height="48" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="48" />
 </p>
 
 ### 🔌 APIs & Backend
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rest" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=soap" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=spring" height="48" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="48" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,trello" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" height="48" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" />
 </p>
 
 ### 📌 Areas I Work With
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ai" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=computer-vision" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=iot" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=embedded" height="48" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cloud" height="48" />
+  <img src="https://skillicons.dev/icons?i=arduino,opencv,pytorch,threejs" />
+  <img src="https://cdn.simpleicons.org/webgl/9900FF" height="48" />
 </p>
 
 ---
 
 ## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kamran-mehravar&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamran-mehravar&theme=radical&layout=compact" alt="Top Languages" />
