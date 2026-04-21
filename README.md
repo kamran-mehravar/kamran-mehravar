@@ -151,5 +151,5 @@ The goal is to enhance model robustness under **environmental and seasonal domai
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamran-mehravar&layout=compact&theme=radical&langs_count=12&hide=jupyter%20notebook,tex,cmake&size_weight=0.2&count_weight=0.8" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamran-mehravar&layout=compact&theme=radical&langs_count=12&hide=jupyter%20notebook,tex,cmake&size_weight=0.35&count_weight=0.65" alt="Top Languages" />
 </p>
